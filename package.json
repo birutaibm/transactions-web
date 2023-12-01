@@ -14,7 +14,7 @@
     "react-scripts": "5.0.0",
     "styled-components": "^5.3.1",
     "typescript": "~3.9.9",
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.1188.0"
   },
   "scripts": {
     "start": "react-app-rewired start",
